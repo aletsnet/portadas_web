@@ -1,0 +1,13 @@
+.rowbasic {
+    height: 120px;
+    max-height: 120px;
+}
+
+.imgmax {
+    width: 120px;
+    max-height: 120px;
+}
+
+.textmax {
+    height: 64px;
+}
